@@ -1,0 +1,26 @@
+[
+  {
+    "group_id": "town_week",
+    "scope": "town",
+    "members": [
+      "person_dim",
+      "site_dim",
+      "service_fact",
+      "demand_week"
+    ]
+  },
+  {
+    "group_id": "county_week",
+    "scope": "county",
+    "members": [
+      "county_control"
+    ]
+  },
+  {
+    "group_id": "town_month",
+    "scope": "town",
+    "members": [
+      "commitment_month"
+    ]
+  }
+]

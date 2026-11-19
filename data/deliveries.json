@@ -1,0 +1,102 @@
+[
+  {
+    "delivery_id": "D1",
+    "source": "population",
+    "town": "T1",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "population-T1-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D2",
+    "source": "population",
+    "town": "T2",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "population-T2-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D3",
+    "source": "population",
+    "town": "T3",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "population-T3-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D4",
+    "source": "site",
+    "town": "T1",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "site-T1-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D5",
+    "source": "site",
+    "town": "T2",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "site-T2-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D6",
+    "source": "site",
+    "town": "T3",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "site-T3-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D7",
+    "source": "service",
+    "town": "T1",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "service-T1-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D8",
+    "source": "service",
+    "town": "T2",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "service-T2-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D9",
+    "source": "service",
+    "town": "T3",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "fingerprint": "service-T3-v1",
+    "ready": true,
+    "received_at": "2026-11-01T08:00:00+08:00"
+  },
+  {
+    "delivery_id": "D10",
+    "source": "population",
+    "town": "T1",
+    "from_date": "2026-10-15",
+    "until_date": "2026-10-17",
+    "fingerprint": "population-T1-v2",
+    "ready": false,
+    "received_at": "2026-11-02T08:00:00+08:00"
+  }
+]

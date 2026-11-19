@@ -1,0 +1,61 @@
+[
+  {
+    "job_id": "person_dim",
+    "inputs": [
+      "source:population"
+    ],
+    "lookback_days": 0,
+    "output_grain": "daily",
+    "scope": "town"
+  },
+  {
+    "job_id": "site_dim",
+    "inputs": [
+      "source:site"
+    ],
+    "lookback_days": 0,
+    "output_grain": "daily",
+    "scope": "town"
+  },
+  {
+    "job_id": "service_fact",
+    "inputs": [
+      "person_dim",
+      "site_dim",
+      "source:service"
+    ],
+    "lookback_days": 0,
+    "output_grain": "daily",
+    "scope": "town"
+  },
+  {
+    "job_id": "demand_week",
+    "inputs": [
+      "person_dim",
+      "service_fact"
+    ],
+    "lookback_days": 28,
+    "output_grain": "weekly",
+    "scope": "town"
+  },
+  {
+    "job_id": "county_control",
+    "inputs": [
+      "demand_week"
+    ],
+    "lookback_days": 0,
+    "output_grain": "weekly",
+    "scope": "county"
+  },
+  {
+    "job_id": "commitment_month",
+    "inputs": [
+      "source:commitment",
+      "demand_week",
+      "site_dim"
+    ],
+    "lookback_days": 0,
+    "output_grain": "monthly",
+    "scope": "town"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "record_id": "P1",
+    "town": "T1",
+    "person_id": "X1",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P2",
+    "town": "T1",
+    "person_id": "X2",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P3",
+    "town": "T1",
+    "person_id": "X3",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P4",
+    "town": "T1",
+    "person_id": "X4",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P5",
+    "town": "T1",
+    "person_id": "X5",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P6",
+    "town": "T1",
+    "person_id": "X6",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P7",
+    "town": "T1",
+    "person_id": "X7",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P8",
+    "town": "T1",
+    "person_id": "X8",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P9",
+    "town": "T2",
+    "person_id": "X9",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P10",
+    "town": "T2",
+    "person_id": "X10",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P11",
+    "town": "T2",
+    "person_id": "X11",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P12",
+    "town": "T2",
+    "person_id": "X12",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P13",
+    "town": "T2",
+    "person_id": "X13",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P14",
+    "town": "T2",
+    "person_id": "X14",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P15",
+    "town": "T2",
+    "person_id": "X15",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P16",
+    "town": "T2",
+    "person_id": "X16",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P17",
+    "town": "T3",
+    "person_id": "X17",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P18",
+    "town": "T3",
+    "person_id": "X18",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P19",
+    "town": "T3",
+    "person_id": "X19",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P20",
+    "town": "T3",
+    "person_id": "X20",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P21",
+    "town": "T3",
+    "person_id": "X21",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  },
+  {
+    "record_id": "P22",
+    "town": "T3",
+    "person_id": "X22",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P23",
+    "town": "T3",
+    "person_id": "X23",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": true
+  },
+  {
+    "record_id": "P24",
+    "town": "T3",
+    "person_id": "X24",
+    "from_date": "2026-10-01",
+    "until_date": "2026-11-01",
+    "eligible": false
+  }
+]

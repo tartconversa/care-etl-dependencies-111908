@@ -1,0 +1,29 @@
+[
+  {
+    "change_id": "C1",
+    "source": "population",
+    "scope": {
+      "town": "T1",
+      "from_date": "2026-10-15",
+      "until_date": "2026-10-17"
+    },
+    "new_values": {
+      "record_id": "P1",
+      "eligible": false
+    },
+    "received_at": "2026-11-02T08:00:00+08:00"
+  },
+  {
+    "change_id": "C2",
+    "source": "population",
+    "scope": {
+      "town": "T1",
+      "from_date": "2026-10-15",
+      "until_date": "2026-10-17"
+    },
+    "new_values": {
+      "complete": true
+    },
+    "received_at": "2026-11-02T09:00:00+08:00"
+  }
+]

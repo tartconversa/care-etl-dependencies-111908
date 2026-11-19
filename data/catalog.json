@@ -1,0 +1,119 @@
+{
+  "synthetic": true,
+  "files": [
+    {
+      "path": "data/deliveries.json",
+      "format": "json",
+      "sha256": "8457c484346b508744f11ec222fb6e446c53a61d3b6179b95dee1da98c6d69e0",
+      "rows": 10,
+      "fields": [
+        "delivery_id",
+        "source",
+        "town",
+        "from_date",
+        "until_date",
+        "fingerprint",
+        "ready",
+        "received_at"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/jobs.json",
+      "format": "json",
+      "sha256": "615e54021f14aa3ba0f93c7868ffc7e393fa6afbd129179e5310dca7cf88e631",
+      "rows": 6,
+      "fields": [
+        "job_id",
+        "inputs",
+        "lookback_days",
+        "output_grain",
+        "scope"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/commitments.json",
+      "format": "json",
+      "sha256": "4747ec8c01e4270cc6c8b2d3c97cc7a4c89543d3f5e09c693f87517733b65adb",
+      "rows": 2,
+      "fields": [
+        "commitment_id",
+        "town",
+        "from_date",
+        "until_date",
+        "seats"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/publication_groups.json",
+      "format": "json",
+      "sha256": "6f036cc6544614ed19d78d322e0da174343e4cd895dbab1894d9ac9cfd557cdc",
+      "rows": 3,
+      "fields": [
+        "group_id",
+        "scope",
+        "members"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/population.json",
+      "format": "json",
+      "sha256": "a16e4b341dd02974a825c5504f729621a97966a131e7b25c43b12cd8874f9a24",
+      "rows": 24,
+      "fields": [
+        "record_id",
+        "town",
+        "person_id",
+        "from_date",
+        "until_date",
+        "eligible"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/sites.json",
+      "format": "json",
+      "sha256": "3b944ae4aff7f2365ea6a019ddd6ef2a47582cf54887ec6704c9b7616e9e1970",
+      "rows": 6,
+      "fields": [
+        "site_id",
+        "town",
+        "from_date",
+        "until_date",
+        "seats"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/service_rows.json",
+      "format": "json",
+      "sha256": "465f53865add787bd400b489f124f9ced8cba3c02ee086f4a01cb719560e3f10",
+      "rows": 24,
+      "fields": [
+        "service_id",
+        "town",
+        "person_id",
+        "site_id",
+        "date"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/changes.json",
+      "format": "json",
+      "sha256": "84e6367098e36270c7253f3454cabb3b615c5cc032efea2025077dcdaef6f0a3",
+      "rows": 2,
+      "fields": [
+        "change_id",
+        "source",
+        "scope",
+        "new_values",
+        "received_at"
+      ],
+      "references": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "site_id": "S1",
+    "town": "T1",
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01",
+    "seats": 11
+  },
+  {
+    "site_id": "S2",
+    "town": "T1",
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01",
+    "seats": 12
+  },
+  {
+    "site_id": "S3",
+    "town": "T2",
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01",
+    "seats": 13
+  },
+  {
+    "site_id": "S4",
+    "town": "T2",
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01",
+    "seats": 14
+  },
+  {
+    "site_id": "S5",
+    "town": "T3",
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01",
+    "seats": 15
+  },
+  {
+    "site_id": "S6",
+    "town": "T3",
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01",
+    "seats": 16
+  }
+]
