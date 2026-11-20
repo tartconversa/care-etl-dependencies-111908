@@ -1,0 +1,1 @@
+{"input_fingerprints": {"source:site@T3[2026-10-04..2026-10-05)": "site-T3-v1"}, "job_id": "site_dim", "run_token": "run-6d81504dc958", "scope": {"grain": "town", "town": "T3"}, "window": {"from_date": "2026-10-04", "until_date": "2026-10-05"}}

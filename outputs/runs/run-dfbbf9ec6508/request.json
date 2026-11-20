@@ -1,0 +1,22 @@
+{
+ "run_token": "run-dfbbf9ec6508",
+ "job_id": "demand_week",
+ "scope": {
+  "grain": "town",
+  "town": "T1"
+ },
+ "window": {
+  "from_date": "2026-09-28",
+  "until_date": "2026-10-05"
+ },
+ "input_fingerprints": {
+  "job:person_dim@T1@2026-10-01": "02dda84d1d46199baabcde714bd2cba9a9e3b14a8a4558efaf0fde8ddb368ac7",
+  "job:person_dim@T1@2026-10-02": "101365e4a9c5fad9f5398ffcd5c312b52baae267458de553459145a31540a68e",
+  "job:person_dim@T1@2026-10-03": "c1e805aa22465728b06bd911e547f4c2f25e0139c66983e3b0e5e317473c7755",
+  "job:person_dim@T1@2026-10-04": "7533ce1e517bd55e17342f09ef27125cca9f89c34dbcd655164898a7a16d6804",
+  "job:service_fact@T1@2026-10-01": "1241567a30f4ebaf19d405d7acc9d05466e9d9975c0ad5c0c7cc5228a86c3d4b",
+  "job:service_fact@T1@2026-10-02": "979d5739c993fa488c3b5063d87685574b8eeadebee6a9aeeaac8399243f5476",
+  "job:service_fact@T1@2026-10-03": "12f7f8764a9c834d7cd3efa0f4af958df0a52bb77905a1bdca894bff905abd44",
+  "job:service_fact@T1@2026-10-04": "d471e5af20ffa9063f0b483a31937cca088a99260384c7cd6b391c77d6c775f0"
+ }
+}

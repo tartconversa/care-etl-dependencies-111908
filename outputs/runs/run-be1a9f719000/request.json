@@ -1,0 +1,15 @@
+{
+ "run_token": "run-be1a9f719000",
+ "job_id": "site_dim",
+ "scope": {
+  "grain": "town",
+  "town": "T3"
+ },
+ "window": {
+  "from_date": "2026-10-21",
+  "until_date": "2026-10-22"
+ },
+ "input_fingerprints": {
+  "source:site@T3[2026-10-21..2026-10-22)": "site-T3-v1"
+ }
+}

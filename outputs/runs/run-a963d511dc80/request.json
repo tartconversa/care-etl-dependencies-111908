@@ -1,0 +1,16 @@
+{
+ "run_token": "run-a963d511dc80",
+ "job_id": "county_control",
+ "scope": {
+  "grain": "county"
+ },
+ "window": {
+  "from_date": "2026-09-28",
+  "until_date": "2026-10-05"
+ },
+ "input_fingerprints": {
+  "job:demand_week@T1@2026-09-28": "ecd94c9281651142cb9495ec466bdbdfe6409e6244bca95a75df2f4b6d6f74f1",
+  "job:demand_week@T2@2026-09-28": "de7238d380794ae498e18ee6be9dc3b7700a46ca3dd85bb458825ec4b4917228",
+  "job:demand_week@T3@2026-09-28": "ecc3650d958687bc9fdb9bd7e91e711178018712fe9f0e4dd37bb29fbf8f1d94"
+ }
+}

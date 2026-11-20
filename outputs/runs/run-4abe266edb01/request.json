@@ -1,0 +1,15 @@
+{
+ "run_token": "run-4abe266edb01",
+ "job_id": "site_dim",
+ "scope": {
+  "grain": "town",
+  "town": "T2"
+ },
+ "window": {
+  "from_date": "2026-10-16",
+  "until_date": "2026-10-17"
+ },
+ "input_fingerprints": {
+  "source:site@T2[2026-10-16..2026-10-17)": "site-T2-v1"
+ }
+}

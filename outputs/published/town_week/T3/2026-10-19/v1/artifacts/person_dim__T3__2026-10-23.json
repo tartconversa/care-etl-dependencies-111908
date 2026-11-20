@@ -1,0 +1,1 @@
+{"input_fingerprints": {"source:population@T3[2026-10-23..2026-10-24)": "population-T3-v1"}, "job_id": "person_dim", "run_token": "run-87b65ffe7475", "scope": {"grain": "town", "town": "T3"}, "window": {"from_date": "2026-10-23", "until_date": "2026-10-24"}}

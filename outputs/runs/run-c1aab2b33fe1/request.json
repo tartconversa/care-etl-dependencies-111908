@@ -1,0 +1,15 @@
+{
+ "run_token": "run-c1aab2b33fe1",
+ "job_id": "person_dim",
+ "scope": {
+  "grain": "town",
+  "town": "T3"
+ },
+ "window": {
+  "from_date": "2026-10-15",
+  "until_date": "2026-10-16"
+ },
+ "input_fingerprints": {
+  "source:population@T3[2026-10-15..2026-10-16)": "population-T3-v1"
+ }
+}

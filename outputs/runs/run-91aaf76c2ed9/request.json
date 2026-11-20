@@ -1,0 +1,17 @@
+{
+ "run_token": "run-91aaf76c2ed9",
+ "job_id": "service_fact",
+ "scope": {
+  "grain": "town",
+  "town": "T2"
+ },
+ "window": {
+  "from_date": "2026-10-24",
+  "until_date": "2026-10-25"
+ },
+ "input_fingerprints": {
+  "job:person_dim@T2@2026-10-24": "45000417bb8654e7a5a7a174b5af1e1e3c27569366edb692a49832946ee574af",
+  "job:site_dim@T2@2026-10-24": "88b8d29a38822137d75c9c9a0c808fa4ad7700f1a9214f08d83a622746fa9666",
+  "source:service@T2[2026-10-24..2026-10-25)": "service-T2-v1"
+ }
+}

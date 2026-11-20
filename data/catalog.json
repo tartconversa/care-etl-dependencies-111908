@@ -4,7 +4,7 @@
     {
       "path": "data/deliveries.json",
       "format": "json",
-      "sha256": "8457c484346b508744f11ec222fb6e446c53a61d3b6179b95dee1da98c6d69e0",
+      "sha256": "1594f71c38362ee7b793abddee1a86f26686d16a6aabdf504e862e59d30d93d8",
       "rows": 10,
       "fields": [
         "delivery_id",
@@ -21,7 +21,7 @@
     {
       "path": "data/jobs.json",
       "format": "json",
-      "sha256": "615e54021f14aa3ba0f93c7868ffc7e393fa6afbd129179e5310dca7cf88e631",
+      "sha256": "32378eda75640a6271ea093a7637cf51319d8e150d76fb32a34c264e30d15fed",
       "rows": 6,
       "fields": [
         "job_id",
@@ -35,7 +35,7 @@
     {
       "path": "data/commitments.json",
       "format": "json",
-      "sha256": "4747ec8c01e4270cc6c8b2d3c97cc7a4c89543d3f5e09c693f87517733b65adb",
+      "sha256": "9f668ac59bac62550ea577a5b50753a1abe7f9e36fd9425192d9b0276fa8c8c4",
       "rows": 2,
       "fields": [
         "commitment_id",
@@ -49,7 +49,7 @@
     {
       "path": "data/publication_groups.json",
       "format": "json",
-      "sha256": "6f036cc6544614ed19d78d322e0da174343e4cd895dbab1894d9ac9cfd557cdc",
+      "sha256": "9eac00aac1b8955e07e0c342038fc7f755eca901312fc8b8854360db8e57a851",
       "rows": 3,
       "fields": [
         "group_id",
@@ -61,7 +61,7 @@
     {
       "path": "data/population.json",
       "format": "json",
-      "sha256": "a16e4b341dd02974a825c5504f729621a97966a131e7b25c43b12cd8874f9a24",
+      "sha256": "19a39779194fc0902ed67bd1f9afc8467ed485ed034263c8f8d8a540847d8ed8",
       "rows": 24,
       "fields": [
         "record_id",
@@ -76,7 +76,7 @@
     {
       "path": "data/sites.json",
       "format": "json",
-      "sha256": "3b944ae4aff7f2365ea6a019ddd6ef2a47582cf54887ec6704c9b7616e9e1970",
+      "sha256": "eeafce5c8399bd9456c96157f03e5575ee30d73e3cffbc39bf1bf723c084f8d6",
       "rows": 6,
       "fields": [
         "site_id",
@@ -90,7 +90,7 @@
     {
       "path": "data/service_rows.json",
       "format": "json",
-      "sha256": "465f53865add787bd400b489f124f9ced8cba3c02ee086f4a01cb719560e3f10",
+      "sha256": "04fb11acfeb352be9341aff9126aeb8ed6421bc2b244ac728c34a6debbfb791e",
       "rows": 24,
       "fields": [
         "service_id",
@@ -104,7 +104,7 @@
     {
       "path": "data/changes.json",
       "format": "json",
-      "sha256": "84e6367098e36270c7253f3454cabb3b615c5cc032efea2025077dcdaef6f0a3",
+      "sha256": "2d88b590411996e5f49f40fb6712ce6272dd54b0714e7bac6453db790c0ed2a1",
       "rows": 2,
       "fields": [
         "change_id",
